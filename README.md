@@ -15,5 +15,5 @@ Solution for https://hacks-ai.ru/championships/758240
 
 ## Результаты полученного решения:
 - CV: 0.653 (std 0.06); 
-- Public leaderboard: 0.664612;
+- Public leaderboard: 0.664717;
 - Private leaderboard: ???
